@@ -42,7 +42,7 @@ nav{
 }
 
 div.prin{
-	background-image: url(img/repos.jpg);
+	background-image: url(repos.jpg);
 	background-repeat: no-repeat;
 	background-size: 1300px 600px;
 	height: 600px;
@@ -78,9 +78,6 @@ div.type{
 	float: right;
 	padding: 20px;
 	background: #aeb4b3;
-	position: fixed;
-	z-index: 5;
-
 }
 
 div.un	{
