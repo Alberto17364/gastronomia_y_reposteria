@@ -1,0 +1,105 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: gray;
+}
+
+li > a{
+    text-decoration: none;
+    padding: 35px 30px 40px 30px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    float: right;
+}
+
+ul.in {
+	list-style-type: none;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+
+}
+
+li.u {
+	display: block;
+	float: right;
+}
+
+li > img {
+	width: 100px;
+	float: left;
+}
+
+li a:hover{
+	background-color: #111;
+}
+nav{
+	background: #333;
+}
+
+div.prin{
+	background-image: url(img/gast.jpg);
+	background-repeat: no-repeat;
+	background-size: 1300px 600px;
+	height: 600px;
+	text-align: center;
+}
+
+h1{
+	font-size: 80px;
+	color: white;
+}
+
+p.prin{
+	margin: 10px;
+	padding: 10px;
+	font-size: 20px;
+	color:  #ced5d4;
+	text-shadow: 2px 2px 10px black;
+	font-weight: bold;
+}
+
+div.img{
+	float: right;
+}
+
+img{
+	width: 600px;
+	display: block;
+	margin: auto;
+	padding-bottom: 10px;
+}
+
+div.type{
+	text-align: center;
+}
+
+div.un	{
+	display: block;
+	margin: auto;
+	width: 1000px;
+	background: white;
+	text-align: justify;
+}
+
+div.fo{
+	background: #333;
+	height: 200px;
+}
+
+p{
+	margin:15px;
+}
+
+h2{
+	text-align: center;
+	font-size: 40px;
+}
+
+li > img{
+	padding-bottom: 0px;
+}
