@@ -3,7 +3,7 @@
 	margin: 0px;
 }
 body{
-	background-image: url("vintage.jpg");
+	background-image: url(vintage.jpg);
 	background-size: 1300px 700px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
