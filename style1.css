@@ -42,7 +42,7 @@ nav{
 }
 
 div.prin{
-	background-image: url(gast.jpg);
+	background-image: url(img/gast.jpg);
 	background-repeat: no-repeat;
 	background-size: 1300px 600px;
 	height: 600px;
@@ -87,8 +87,7 @@ div.un	{
 }
 
 div.fo{
-	background: #333;
-	height: 200px;
+	margin-left: 450px;
 }
 
 p{
@@ -102,4 +101,24 @@ h2{
 
 li > img{
 	padding-bottom: 0px;
+}
+
+footer{
+	background: #333;
+	height: 200px
+}
+
+ img.logo{
+	width: 52px;
+}
+
+div.img{
+	margin-top: 20px;
+	margin-left: 60px;
+	float: left;
+	padding: 5px;
+}
+
+p.fin{
+	font-size: 30px;
 }
